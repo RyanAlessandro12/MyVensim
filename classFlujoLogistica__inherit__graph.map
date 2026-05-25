@@ -1,0 +1,5 @@
+<map id="FlujoLogistica" name="FlujoLogistica">
+<area shape="rect" id="Node000001" title="Flujo logístico basado en el valor del sistema destino." alt="" coords="5,279,135,364"/>
+<area shape="rect" id="Node000002" href="$classFlujo.html" title="Base abstracta para un flujo entre dos sistemas." alt="" coords="15,5,125,231"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,244,73,278,67,278,67,244"/>
+</map>

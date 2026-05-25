@@ -1,0 +1,7 @@
+<map id="FlujoTipoG" name="FlujoTipoG">
+<area shape="rect" id="Node000001" title="Flujo para el modelo complejo: transferencia desde Q1." alt="" coords="5,443,115,528"/>
+<area shape="rect" id="Node000002" href="$classFlujo.html" title="Base abstracta para un flujo entre dos sistemas." alt="" coords="5,208,115,393"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,407,63,443,57,443,57,407"/>
+<area shape="rect" id="Node000003" href="$classSistema.html" title="Representa un sistema o depósito en la simulación." alt="" coords="11,5,109,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,131,63,191,57,191,57,131"/>
+</map>

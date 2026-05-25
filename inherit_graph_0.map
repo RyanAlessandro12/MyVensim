@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classFlujo.html" title="Base abstracta para un flujo entre dos sistemas." alt="" coords="5,179,60,204"/>
+<area shape="rect" id="Node000001" href="$classFlujoExponencial.html" title="Flujo exponencial basado en el valor del sistema origen." alt="" coords="108,5,241,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="38,165,61,103,81,69,106,40,124,29,127,33,110,44,85,72,66,105,43,167"/>
+<area shape="rect" id="Node000002" href="$classFlujoLogistica.html" title="Flujo logístico basado en el valor del sistema destino." alt="" coords="119,55,231,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="45,165,70,126,106,89,127,78,129,82,110,93,74,130,49,168"/>
+<area shape="rect" id="Node000003" href="$classFlujoTipoF.html" title="Flujo para el modelo complejo: transferencia desde Q1." alt="" coords="129,104,220,129"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="60,168,107,138,133,127,135,132,109,143,63,173"/>
+<area shape="rect" id="Node000004" href="$classFlujoTipoG.html" title="Flujo para el modelo complejo: transferencia desde Q1." alt="" coords="129,153,221,179"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="73,181,128,172,129,177,74,187"/>
+<area shape="rect" id="Node000005" href="$classFlujoTipoR.html" title="Flujo para el modelo complejo: transferencia desde Q2." alt="" coords="129,203,220,228"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="74,195,130,205,129,210,73,201"/>
+<area shape="rect" id="Node000006" href="$classFlujoTipoT.html" title="Flujo para el modelo complejo: transferencia desde Q2." alt="" coords="129,252,220,277"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="64,210,109,237,138,249,135,254,107,242,62,214"/>
+<area shape="rect" id="Node000007" href="$classFlujoTipoU.html" title="Flujo para el modelo complejo: transferencia desde Q3." alt="" coords="129,301,221,327"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="50,215,75,252,110,287,132,299,129,304,106,291,71,255,46,218"/>
+<area shape="rect" id="Node000008" href="$classFlujoTipoV.html" title="Flujo para el modelo complejo: transferencia desde Q4." alt="" coords="129,351,220,376"/>
+<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="43,216,67,276,86,308,110,336,131,349,128,354,106,340,81,311,62,279,38,218"/>
+</map>

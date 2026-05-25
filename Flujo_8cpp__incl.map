@@ -1,0 +1,10 @@
+<map id="src/Flujo.cpp" name="src/Flujo.cpp">
+<area shape="rect" id="Node000001" title="Implementación de métodos básicos de la clase Flujo." alt="" coords="5,5,109,31"/>
+<area shape="rect" id="Node000002" href="$Flujo_8h.html" title="Declaración de la clase base Flujo para los componentes de transferencia." alt="" coords="24,79,91,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,31,60,65,55,65,55,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="28,225,87,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="56,105,45,152,46,183,52,212,47,213,41,184,40,152,51,104"/>
+<area shape="rect" id="Node000004" href="$Sistema_8h.html" title="Declaración de la clase Sistema para representar depósitos de valor." alt="" coords="55,152,142,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="66,103,87,139,83,141,62,106"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="94,179,73,215,69,212,90,176"/>
+</map>

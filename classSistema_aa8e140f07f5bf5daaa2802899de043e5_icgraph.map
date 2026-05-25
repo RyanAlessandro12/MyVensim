@@ -1,0 +1,24 @@
+<map id="Sistema::getValor" name="Sistema::getValor">
+<area shape="rect" id="Node000001" title="Devuelve el valor actual del sistema." alt="" coords="348,231,485,256"/>
+<area shape="rect" id="Node000002" href="$classModelo.html#aef3aa4198f2deed0d8b65277417c4b74" title="Ejecuta la simulación del modelo entre dos instantes." alt="" coords="139,5,269,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,219,389,181,366,137,336,91,298,52,263,33,265,28,302,48,340,88,371,134,394,179,409,217"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="Punto de entrada del programa." alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="401,220,362,156,333,123,299,96,268,81,236,68,170,53,108,46,60,45,60,40,108,41,171,48,238,63,271,76,301,92,336,120,366,153,406,217"/>
+<area shape="rect" id="Node000004" href="$classFlujoExponencial.html#ab9a59bdea397660866b85c2a1d10b817" title="Ejecuta el flujo exponencial." alt="" coords="108,107,300,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="393,222,352,183,326,163,299,146,271,134,273,130,301,141,329,158,355,179,397,218"/>
+<area shape="rect" id="Node000005" href="$classFlujoLogistica.html#ace70897c9875cf5245a04fef4a027d3c" title="Ejecuta el flujo logístico." alt="" coords="119,156,289,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="376,227,299,195,261,184,263,179,301,190,378,222"/>
+<area shape="rect" id="Node000006" href="$classFlujoTipoF.html#a0f7400de04de55fcda8d0d979e7c438d" title="Ejecuta el flujo tipo F del modelo complejo." alt="" coords="130,205,278,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="334,236,278,229,279,224,335,231"/>
+<area shape="rect" id="Node000007" href="$classFlujoTipoG.html#a30798e24b5857f3ad3ef44e471c591ce" title="Ejecuta el flujo tipo G del modelo complejo." alt="" coords="129,255,279,280"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="334,255,280,262,279,256,334,250"/>
+<area shape="rect" id="Node000008" href="$classFlujoTipoU.html#a10962f2e6af1f57948c237d17769a150" title="Ejecuta el flujo tipo U del modelo complejo." alt="" coords="129,304,279,329"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="377,264,301,294,259,307,257,301,299,289,375,259"/>
+<area shape="rect" id="Node000009" href="$classFlujoTipoV.html#a66cb737f056e6c4743afafb1bbf65a15" title="Ejecuta el flujo tipo V del modelo complejo." alt="" coords="129,353,279,379"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="396,268,355,306,301,343,269,356,267,351,299,338,351,302,393,264"/>
+<area shape="rect" id="Node000010" href="$classFlujoTipoT.html#af5d7170e9e0d25d3e849e36fd69a3c0e" title="Ejecuta el flujo tipo T del modelo complejo." alt="" coords="130,403,278,428"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="405,270,364,331,335,364,301,392,275,405,273,400,299,388,332,360,360,328,400,267"/>
+<area shape="rect" id="Node000011" href="$classFlujoTipoR.html#a7af7eeb67975892b3696e7fa33df796e" title="Ejecuta el flujo tipo R del modelo complejo." alt="" coords="129,452,279,477"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="410,270,395,308,372,355,341,402,302,441,279,454,276,450,298,437,337,398,368,352,390,306,405,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,32,61,42,60,37,124,27"/>
+</map>

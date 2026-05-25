@@ -1,0 +1,8 @@
+<map id="src/Flujo.h" name="src/Flujo.h">
+<area shape="rect" id="Node000001" title="Declaración de la clase base Flujo para los componentes de transferencia." alt="" coords="5,5,95,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,152,79,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,32,38,79,39,110,45,138,39,139,33,110,33,78,44,30"/>
+<area shape="rect" id="Node000003" href="$Sistema_8h.html" title="Declaración de la clase Sistema para representar depósitos de valor." alt="" coords="48,79,135,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="59,30,80,65,75,68,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="87,106,66,141,61,139,82,103"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FlujoTipoG::executa" name="FlujoTipoG::executa">
+<area shape="rect" id="Node000001" title="Ejecuta el flujo tipo G del modelo complejo." alt="" coords="5,5,156,31"/>
+<area shape="rect" id="Node000002" href="$classSistema.html#aa8e140f07f5bf5daaa2802899de043e5" title="Devuelve el valor actual del sistema." alt="" coords="204,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,15,190,15,190,21,156,21"/>
+</map>

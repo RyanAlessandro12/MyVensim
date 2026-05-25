@@ -1,0 +1,5 @@
+<map id="Flujo" name="Flujo">
+<area shape="rect" id="Node000001" title="Base abstracta para un flujo entre dos sistemas." alt="" coords="5,208,115,393"/>
+<area shape="rect" id="Node000002" href="$classSistema.html" title="Representa un sistema o depósito en la simulación." alt="" coords="11,5,109,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,131,63,191,57,191,57,131"/>
+</map>

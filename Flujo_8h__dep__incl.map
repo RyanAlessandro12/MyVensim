@@ -1,0 +1,16 @@
+<map id="src/Flujo.h" name="src/Flujo.h">
+<area shape="rect" id="Node000001" title="Declaración de la clase base Flujo para los componentes de transferencia." alt="" coords="137,5,226,31"/>
+<area shape="rect" id="Node000002" href="$Flujo_8cpp.html" title="Implementación de métodos básicos de la clase Flujo." alt="" coords="5,79,109,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,40,79,81,76,76,148,35"/>
+<area shape="rect" id="Node000003" href="$Flujos_8h.html" title="Declaración de flujos concretos para la simulación de modelos." alt="" coords="133,79,229,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,44,184,79,179,79,179,44"/>
+<area shape="rect" id="Node000006" href="$Modelo_8h.html" title="Declaración de la clase Modelo para la simulación de sistemas y flujos." alt="" coords="254,79,359,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,35,287,76,285,81,212,40"/>
+<area shape="rect" id="Node000004" href="$Flujos_8cpp.html" title="Implementación de los flujos concretos utilizados en los modelos." alt="" coords="57,152,167,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="162,116,125,154,121,150,159,112"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title="Programa principal que construye y ejecuta modelos de flujo." alt="" coords="191,152,297,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="203,113,236,150,232,154,199,116"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="289,116,256,154,252,150,285,113"/>
+<area shape="rect" id="Node000007" href="$Modelo_8cpp.html" title="Implementación de la clase Modelo para gestionar la simulación." alt="" coords="321,152,441,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="330,111,371,150,367,154,327,115"/>
+</map>

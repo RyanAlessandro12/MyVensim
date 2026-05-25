@@ -1,0 +1,5 @@
+<map id="FlujoTipoV::executa" name="FlujoTipoV::executa">
+<area shape="rect" id="Node000001" title="Ejecuta el flujo tipo V del modelo complejo." alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000002" href="$classSistema.html#aa8e140f07f5bf5daaa2802899de043e5" title="Devuelve el valor actual del sistema." alt="" coords="203,5,340,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,15,189,15,189,21,155,21"/>
+</map>

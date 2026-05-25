@@ -1,0 +1,7 @@
+<map id="Modelo::ejecutar" name="Modelo::ejecutar">
+<area shape="rect" id="Node000001" title="Ejecuta la simulación del modelo entre dos instantes." alt="" coords="5,31,136,56"/>
+<area shape="rect" id="Node000002" href="$classSistema.html#aa8e140f07f5bf5daaa2802899de043e5" title="Devuelve el valor actual del sistema." alt="" coords="184,5,321,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,32,170,27,171,32,137,37"/>
+<area shape="rect" id="Node000003" href="$classSistema.html#a99343140946aa54deeae631af5517592" title="Actualiza el valor del sistema." alt="" coords="185,55,321,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,49,171,54,171,59,136,55"/>
+</map>

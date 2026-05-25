@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Punto de entrada del programa." alt="" coords="5,80,60,105"/>
+<area shape="rect" id="Node000002" href="$classModelo.html#a68cf5c4ed14feec70d5e863cff45dc07" title="Agrega un sistema al modelo." alt="" coords="109,5,237,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,78,107,40,120,33,122,38,109,44,52,82"/>
+<area shape="rect" id="Node000003" href="$classFlujo.html#ab1815f8916b84d5fb32d90f7c0e7feb1" title="Conecta el flujo a un sistema de origen y un sistema de destino." alt="" coords="114,55,233,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="60,85,100,78,100,83,61,90"/>
+<area shape="rect" id="Node000004" href="$classModelo.html#aef3aa4198f2deed0d8b65277417c4b74" title="Ejecuta la simulación del modelo entre dos instantes." alt="" coords="108,156,239,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="56,103,109,134,134,147,131,152,107,139,53,108"/>
+<area shape="rect" id="Node000005" href="$classSistema.html#aa8e140f07f5bf5daaa2802899de043e5" title="Devuelve el valor actual del sistema." alt="" coords="287,107,424,132"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="60,92,273,110,273,115,60,98"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="220,153,294,133,295,138,222,159"/>
+<area shape="rect" id="Node000006" href="$classSistema.html#a99343140946aa54deeae631af5517592" title="Actualiza el valor del sistema." alt="" coords="287,156,423,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="239,166,274,166,274,171,239,171"/>
+</map>

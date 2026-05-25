@@ -1,0 +1,7 @@
+<map id="FlujoExponencial" name="FlujoExponencial">
+<area shape="rect" id="Node000001" title="Flujo exponencial basado en el valor del sistema origen." alt="" coords="5,443,155,528"/>
+<area shape="rect" id="Node000002" href="$classFlujo.html" title="Base abstracta para un flujo entre dos sistemas." alt="" coords="25,208,135,393"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,407,83,443,77,443,77,407"/>
+<area shape="rect" id="Node000003" href="$classSistema.html" title="Representa un sistema o depósito en la simulación." alt="" coords="31,5,129,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,131,83,191,77,191,77,131"/>
+</map>

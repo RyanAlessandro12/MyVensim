@@ -1,0 +1,12 @@
+<map id="src/Flujos.cpp" name="src/Flujos.cpp">
+<area shape="rect" id="Node000001" title="Implementación de los flujos concretos utilizados en los modelos." alt="" coords="5,5,116,31"/>
+<area shape="rect" id="Node000002" href="$Flujos_8h.html" title="Declaración de flujos concretos para la simulación de modelos." alt="" coords="24,79,97,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,31,63,65,58,65,58,31"/>
+<area shape="rect" id="Node000003" href="$Flujo_8h.html" title="Declaración de la clase base Flujo para los componentes de transferencia." alt="" coords="27,152,94,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,104,63,138,58,138,58,104"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,299,90,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="59,178,49,226,49,256,55,285,50,286,44,257,43,225,54,177"/>
+<area shape="rect" id="Node000005" href="$Sistema_8h.html" title="Declaración de la clase Sistema para representar depósitos de valor." alt="" coords="59,225,145,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="70,176,91,212,86,215,65,179"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="97,252,77,288,72,285,93,250"/>
+</map>
